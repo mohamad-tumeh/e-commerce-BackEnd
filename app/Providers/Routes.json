@@ -1,0 +1,23 @@
+[
+    "routes/api.php",
+    "routes/Users/Auth/auth.php",
+    "routes/Users/user.php",
+    "routes/Cities/city.php",
+    "routes/Stores/store.php",
+    "routes/OpeningTimes/openingTime.php",
+    "routes/Locations/location.php",
+    "routes/Sections/section.php",
+    "routes/Categories/category.php",
+    "routes/Types/type.php",
+    "routes/Products/product.php",
+    "routes/Orders/order.php",
+    "routes/Orders/orderDetails.php",
+    "routes/Helpers/helper.php",
+    "routes/Permissions/permission.php",
+    "routes/Evaluations/evaluation.php",
+    "routes/Locolizations/locolization.php",
+    "routes/Helpers/Statistices/statistice.php",
+    "routes/Elanats/elanats.php",
+    "routes/Faqs/faq.php",
+    "routes/Searchs/search.php"
+]
