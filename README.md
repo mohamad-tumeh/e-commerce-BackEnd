@@ -1,1 +1,4 @@
-# e-commerce-BackEnd
+- php artisan migrate:fresh --seed.
+- php artisan passport:client --personal.
+- php artisan Storage:link.
+- php artisan serve
